@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.30523.141
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BlazorServerCRUD", "BlazorServerCRUD\BlazorServerCRUD.csproj", "{CBD8C43F-66D6-4BD4-816C-1DFF0DF2F997}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataLibrary", "DataLibrary\DataLibrary.csproj", "{24D89CB1-A265-43B4-A854-2F441E5D1843}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataLibrary", "DataLibrary\DataLibrary.csproj", "{24D89CB1-A265-43B4-A854-2F441E5D1843}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
